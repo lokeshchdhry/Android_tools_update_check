@@ -78,5 +78,5 @@ do
   check_android_pltf_tools
   check_android_build_tools
   check_android_sdk_tools
-  sleep 14400
+  sleep 7200
 done
